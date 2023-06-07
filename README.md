@@ -1,13 +1,10 @@
 ### Hi 👋 I'm Meybis a Full-Stack Web Developer!!
 
 
-🙋🏻‍♂️ I regard myself as a results-oriented person, who is always seeking knowledge and challenging professional experiences.
+🙋🏻‍♂️ I regard myself as a results-oriented person, who love programming and is always seeking knowledge.
 
 
-¿Qué tecnologías uso?
-
-El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 Por lo que las principales tecnologías que manejo son:
-
+My Skills set
     Javascript
     React.js
     Node.js
@@ -18,9 +15,9 @@ El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
     HTML 
     CSS
 
-También tengo conocimiento en Photoshop.
   
 🌱 I’m currently learning MongoDB and Solidity.
+<br/>
 📫 How to reach me:
     email: mcruzrodriguez1985@gmail.com
     linkedin: https://www.linkedin.com/in/meybis-cruz-rodriguez-5335b8234/
