@@ -1,7 +1,6 @@
 ### Hi 👋 I'm Meybis a Full-Stack Web Developer!!
 
 
-🙋🏻‍♂️ I regard myself as a results-oriented person, who love programming and is always seeking knowledge.
 
 
 My Skills set
@@ -22,7 +21,8 @@ My Skills set
     email: mcruzrodriguez1985@gmail.com
     linkedin: https://www.linkedin.com/in/meybis-cruz-rodriguez-5335b8234/
     
-    <h3 align="center">A passionate frontend developer from India</h3>
+
+- 🙋🏻‍♂️ I regard myself as a results-oriented person, who love programming and is always seeking knowledge.
 
 - 🌱 I’m currently learning **MongoDB**
 
