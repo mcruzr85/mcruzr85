@@ -1,8 +1,7 @@
-### Hola 👋 soy Meybis una desarrolladora web fullstack!!
+### Hi 👋 I'm Meybis a Full-Stack Web Developer!!
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+🙋🏻‍♂️ I regard myself as a results-oriented person, who is always seeking knowledge and challenging professional experiences.
 
 
 ¿Qué tecnologías uso?
@@ -21,13 +20,10 @@ El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 
 También tengo conocimiento en Photoshop.
   
-No dudes en contactarme!
-
-
-
-Linkedin
-
-Correo: mcruzrodriguez1985@gmail.com
+🌱 I’m currently learning MongoDB and Solidity.
+📫 How to reach me:
+    email: mcruzrodriguez1985@gmail.com
+    linkedin: https://www.linkedin.com/in/meybis-cruz-rodriguez-5335b8234/
 
 
 <!--
