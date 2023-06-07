@@ -2,9 +2,9 @@
 
 - 🙋🏻‍♂️ I regard myself as a results-oriented person, who love programming and is always seeking knowledge.
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **MongoDB**   
 
-- 📫 How to reach me **mcruzrodriguez1985@gmail.com**
+- 📫 Reach out to me via e-mail:**mcruzrodriguez1985@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/meybis-cruz-rodriguez-5335b8234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meybis-cruz-rodriguez-5335b8234/" height="30" width="40" /></a>
