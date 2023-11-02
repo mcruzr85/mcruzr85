@@ -19,8 +19,7 @@
 
 <h3 align="left">🌱 I’m currently learning:</h3> 
 
-- MongoDB 
-- Solidity
+- Java
 
 
 <h3 align="left">🛠 Interested in:</h3>
