@@ -5,7 +5,7 @@ I regard myself as a results-oriented person 👩🏻‍💼, who always loved p
 
 <br>
 
-Languages and Tools:
+💻 Tech Stack:
 -------------------------------------------------------------
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -22,7 +22,7 @@ Languages and Tools:
 
 <br>
 
-I’m currently focus on:
+🎯 I’m currently focus on:
 ----------------------------------------------
 
 <div display:inline>
