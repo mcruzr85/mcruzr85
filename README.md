@@ -1,8 +1,12 @@
-### Hello there!  I'm Meybis 👩🏻‍💻 a Full-Stack Web Developer!!     
+About Me:
+-------------------------------------------------------------
+### Hello there!  I'm Meybis 👩🏻‍💻 a Full-Stack Web Developer!!   
+I regard myself as a results-oriented person 👩🏻‍💼, who always loved programming. I have a clear goal: to achieve that job as a programmer and I´m  working to hard to get there.🏆
 
-I regard myself as a results-oriented person 👩🏻‍💼, who always love programming. I have a clear goal: to achieve that job as a programmer and I´m  working to hard to get there.🏆
+<br>
 
-<h3 align="left">Languages and Tools:</h3> 
+Languages and Tools:
+-------------------------------------------------------------
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -13,31 +17,31 @@ I regard myself as a results-oriented person 👩🏻‍💼, who always love pr
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=Spring)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
+<br>
 
-
-
-<h3 align="left"> I’m currently focus on:</h3> 
+I’m currently focus on:
+----------------------------------------------
 
 <div display:inline>
 <img width="50" heidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img width="40" heidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <div>         
           
+<br>
 
-
-<h3 align="left">🛠 Interested in:</h3>
+🛠 Interested in:
+------------------------------------
 
 - Fronted
 - Backend.
 
+<br>
 
-
-<h3 align="left"> 📫 Contact information:</h3>
+📫 Contact information:
+-----------------------
 
 - Email:  <a href="mailto:mcruzrodriguez1985@gmail.com">mcruzrodriguez1985@gmail.com</a>
 - Linkedin:
@@ -45,6 +49,10 @@ I regard myself as a results-oriented person 👩🏻‍💼, who always love pr
 
 
 <!--
+
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=Spring)
+
 **mcruzr85/mcruzr85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
