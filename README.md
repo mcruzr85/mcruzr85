@@ -1,6 +1,6 @@
-### Hi 👋 I'm Meybis a Full-Stack Web Developer!!    
+### Hello there!  I'm Meybis 👩🏻‍💻 a Full-Stack Web Developer!!     
 
-🤓 I regard myself as a results-oriented person, who love programming and is always seeking knowledge. I like to have clear goals and I work hard until I achieve them.
+I regard myself as a results-oriented person 👩🏻‍💼, who always love programming. I have a clear goal: to achieve that job as a programmer and I´m  working to hard to get there.🏆
 
 <h3 align="left">Languages and Tools:</h3> 
  
@@ -21,9 +21,13 @@
 
 
 
-<h3 align="left">🌱 I’m currently learning:</h3> 
+<h3 align="left"> I’m currently focus on:</h3> 
 
-- Java
+<div display:inline>
+<img width="50" heidth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img width="40" heidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<div>         
+          
 
 
 <h3 align="left">🛠 Interested in:</h3>
