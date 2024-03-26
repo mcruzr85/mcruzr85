@@ -1,7 +1,7 @@
 About Me:
 -------------------------------------------------------------
 ### Hello there!  I'm Meybis 👩🏻‍💻 a Full-Stack Web Developer!!   
-I regard myself as a results-oriented person 👩🏻‍💼, who always loved programming. I have a clear goal: to achieve that job as a programmer and I´m  working to hard to get there.🏆
+I regard myself as a results-oriented person 👩🏻‍💼, who always loved programming. I have a clear goal: to achieve that job as a programmer and I´m working too hard to get there.🏆
 
 <br>
 
